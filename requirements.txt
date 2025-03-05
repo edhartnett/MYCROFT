@@ -1,0 +1,10 @@
+langchain_openai 
+langgraph 
+trustcall 
+langchain_core
+#langchain_openai 
+langchain_community 
+tavily-python 
+wikipedia
+langchain-anthropic
+#langchain-google-genai
